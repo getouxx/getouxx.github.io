@@ -1,2 +1,0 @@
-# getouxx.github.io
-HTML
